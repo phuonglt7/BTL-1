@@ -98,6 +98,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 <h2> Hello baby </h2>
+                <h2> Hello one</h2>
                 </div>
             </div>
         </div>
